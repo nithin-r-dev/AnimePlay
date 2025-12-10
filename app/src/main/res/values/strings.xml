@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AnimePlay</string>
+    <string name="error_while_fetching_details">Error While Fetching Details, Please try again later.</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="connection_restored">Connection Restored</string>
+    <string name="connection_lost">Connection Lost</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="overview">Overview</string>
+    <string name="episodes">Episodes</string>
+    <string name="aired">Aired</string>
+    <string name="season">Season</string>
+    <string name="duration">Duration</string>
+    <string name="status">Status</string>
+</resources>
