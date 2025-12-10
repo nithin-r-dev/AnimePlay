@@ -2,6 +2,7 @@
 Seekho assessment, displaying Anime details with Jikan API
 
 ✨ Features Implemented
+
 1️⃣ Anime List Screen
 A modern, scrollable list that displays key information about each anime retrieved from the Jikan API or from the cached Room database.
 
